@@ -6,7 +6,11 @@
     }, 
     {
       "pattern":"\\Qdb/migration\\E"
-    }, 
+    }, {
+      "pattern":"\\Qdb/migration/V1_0_1__Create_Table.java\\E"
+    },{
+      "pattern":"\\Qdb/migration/V1_0_2__Insert_Data.java\\E"
+    },
     {
       "pattern":"\\Qlog4j.xml\\E"
     }, 
